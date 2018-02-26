@@ -1,0 +1,27 @@
+Ques1- How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Ans- We can identify the changes that occured when creating two versions of a file then analyse these changes to solve the bug.
+
+Ques2- How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Ans- If you do some changes in your version then ther may be cases when you don't like your changes or maybe the changes did not improve the output then by having previous versions
+you can instantly undo your changes by going back to previous version.
+
+Ques3- What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Ans-
+Pros:1) You have the flexibility to decide when to commit
+2) Also you can create commits with a message to help yourselft.
+3) Right amount will be created according to the user.
+Cons:1) If you didn't commit for a long time then there will be lot of changes which will be hard to understand.
+2) You have to know when to commit your changes, so there is a chance of human error.
+
+Ques4- Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Ans- In git you can store a some specific type of file with requires other files for its functioning which in turn makes sense to allow saving multiple files in one commit
+while on the other hand Google Docs does not store these type of files so it saves each file separately.
+
+Ques5- How can you use the commands git log and git diff to view the history of files?
+Ans- We can use gil log to see the id's of various commits that have taken place on that file then use git diff to see the difference between two commits.
+
+Ques6- How might using version control make you more confident to make changes that could break something?
+Ans- We can easily go back to previous versions through git checkout.
+
+Ques7- Now that you have your workspace set up, what do you want to try using Git for?
+Ans- I will use it for doing some changes in my project and can easily revert back to the changes if it does not make my project look good.
