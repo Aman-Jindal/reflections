@@ -5,5 +5,9 @@ Ques2- How is the staging area different from the working directory and the repo
 Ans- Staging area contains the file which are to be commited at that instant while working directory has these files and also some other files on the other hand a repository contains commits
 which happen on staging area. It helps to visualize what files are going to affected in a commit.
 
-Ques3-How can you use the staging area to make sure you have one commit per logical change?
+Ques3- How can you use the staging area to make sure you have one commit per logical change?
 Ans- We can use the staging area to compare the commit which we are going to make with the recent commit.
+
+Ques4- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans When you want to add a feature for experimenting and you also want to go back to the previous version then making branches can help, on these we
+can put label to identify which experimental feature does which branch corresponds to.
