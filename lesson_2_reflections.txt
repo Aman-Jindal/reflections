@@ -14,3 +14,6 @@ can put label to identify which experimental feature does which branch correspon
 
 Ques5- How do the diagrams help you visualize the branch structure?
 Ans They have labels and arrows to help you to visualize the branch structure.
+
+Ques6- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans Merging will combine the functionality that each branch has into one branch. To better understand how this happens.
