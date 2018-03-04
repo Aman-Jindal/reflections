@@ -11,3 +11,6 @@ Ans- We can use the staging area to compare the commit which we are going to mak
 Ques4- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Ans When you want to add a feature for experimenting and you also want to go back to the previous version then making branches can help, on these we
 can put label to identify which experimental feature does which branch corresponds to.
+
+Ques5- How do the diagrams help you visualize the branch structure?
+Ans They have labels and arrows to help you to visualize the branch structure.
