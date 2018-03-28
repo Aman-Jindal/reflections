@@ -4,4 +4,5 @@ Ques2- Why might you want to always pull changes manually rather than having Git
 Ans- You have to be sure that the changes you made to your local repository should be present on github which may or may not be accessed by other people.
 Ques3- Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Ans- Forks means to clone the repositories only on the github servers, Branches where different commits are placed in order of time. clones are done when you want to wrok on your local machine while branches lets you create new features on your project.
-
+Ques4- What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans- If you happen to get offline you can easily get to know what are the changes happen later.
