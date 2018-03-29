@@ -8,3 +8,5 @@ Ques4- What is the benefit of having a copy of the last known state of the remot
 Ans- If you happen to get offline you can easily get to know what are the changes happen later.
 Ques5- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Ans- I would collaborate through email. Sharing will be easier but you can't track the changes by other person working on the same project.
+Ques6- When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Ans- On separate branch you have the flexibility to try new feature and then later merge it to master but doing changes directly on master branch you have to sure this changes should work means you have no flexibility.
